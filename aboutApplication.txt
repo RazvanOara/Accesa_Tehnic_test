@@ -1,0 +1,11 @@
+     This is a basic gamification of swimming.
+      Each player have tokens, named 'goggles' and can earn points, wich can be only earned by completing
+challenges.Each challenge gives a player a number of 25 points, wich cannot be changed; tokens to be earn
+are choosed by the user who create the challenge, ranging between 5-25.
+       Players can also win badges, who are given for complete specific tasks like:adding one friend.
+creating one challenge, complete challenges.
+      Completing the challenges is a very minimal operation, the user only specifing if he done it.
+Once a challenge is accepted, or completed, the user can no longer accept the challenge again, only
+ if he cancel it.
+     Users cand add to a friend list another users, however this is more like  a "folowing" list.
+     
